@@ -5,11 +5,12 @@
 
 Here are some ideas to get you started:
 -->
+
 - 🔭 I’m currently working on self learning
 - 🌱 I’m currently learning frontend web development
 - 👯 I’m looking to collaborate with creative and analytical people
 - 🤔 I’m looking for help with tech community
-- 💬 Ask me about stock market
-- 📫 How to reach me: facebook.com/karkiromansingh
+- 💬 Ask me anything about stock market
+- 📫 How to reach me: Through my colleagues
 - 😄 Pronouns: He
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I can sense fake people
