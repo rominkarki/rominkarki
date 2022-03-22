@@ -3,18 +3,20 @@
 **rominkarki/rominkarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-## I'm a dreamer, a believer and a learner.
+## I'm a learner.
 - 🔭 I’m currently working on self learning
 - 🌱 I’m currently learning frontend web development
 - 👯 I’m looking to collaborate with creative and analytical people
-- 🤔 I’m looking for help with tech community
+- 🤔 I’m looking for help from tech community
 - 💬 I love talking about tech, stock market and world affairs
-- 📫 How to reach me: Through my colleagues
+- 📫 How to reach me: Through my links below
 - ⚡ Fun fact: I can sense fake people
 
 ### Connect with me:
 [<img align="left" alt="facebook logo" width="25px" src="./svgs/facebook.svg" />][facebook]
 [<img align="left" alt="linkedIn logo" width="25px" src="./svgs/linkedin.svg" />][linkedin]
+[<img align="left" alt="website logo" width="25px" src="./svgs/www.svg" />][website]
+
 <br />
 
 ### Languages and Tools:
@@ -35,4 +37,4 @@ Here are some ideas to get you started:
 
 [facebook]: https://facebook.com/rominkarki/
 [linkedin]: https://linkedin.com/in/rominkarki/
-[website]: http://rominkarki.com.np/
+[website]: https://github.com/rominkarki
