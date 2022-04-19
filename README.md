@@ -6,11 +6,10 @@ Here are some ideas to get you started:
 ## I'm a learner.
 - 🔭 I’m currently working on self learning
 - 🌱 I’m currently learning frontend web development
-- 👯 I’m looking to collaborate with creative and analytical people
+- 👯 I’m looking to collaborate with people
 - 🤔 I’m looking for help from tech community
 - 💬 I love talking about tech, stock market and world affairs
-- 📫 How to reach me: Through the links given below
-- ⚡ Fun fact: I can sense fake people
+
 
 ### Connect with me:
 [<img align="left" alt="facebook logo" width="25px" src="./svgs/facebook.svg" />][facebook]
