@@ -4,11 +4,7 @@
 Here are some ideas to get you started:
 -->
 ## I'm a learner.
-- 🔭 I’m currently working on self-learning
-- 🌱 I’m currently learning frontend web development
-- 👯 I’m looking to collaborate with people
-- 🤔 I’m looking for help from the tech community
-- 💬 I love talking about tech, the stock market, and world affairs
+💻 I'm Romin Karki, an SEO expert from Nepal. 🌱I'm always open to learning from the tech community. 🤝 I love collaborating and helping businesses grow online. 💬 Let's chat about tech, investments, or anything else that interests you!
 
 
 ### Connect with me:
