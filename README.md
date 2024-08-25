@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rominkarki&layout=compact&theme=radical&count_private=true&exclude_repo=Project_college_1.0,PHP-backups,Android_training_class,Java,C-programs)](https://github.com/rominkarki/)
 
 [linkedin]: https://linkedin.com/in/rominkarki/
-[website]: https://github.com/rominkarki
+[website]: https://rominkarki.com.np
