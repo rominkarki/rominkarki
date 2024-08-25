@@ -4,15 +4,14 @@
 Here are some ideas to get you started:
 -->
 ## I'm a learner.
-- 🔭 I’m currently working on self learning
+- 🔭 I’m currently working on self-learning
 - 🌱 I’m currently learning frontend web development
 - 👯 I’m looking to collaborate with people
-- 🤔 I’m looking for help from tech community
-- 💬 I love talking about tech, stock market and world affairs
+- 🤔 I’m looking for help from the tech community
+- 💬 I love talking about tech, the stock market, and world affairs
 
 
 ### Connect with me:
-[<img align="left" alt="facebook logo" width="25px" src="./svgs/facebook.svg" />][facebook]
 [<img align="left" alt="linkedIn logo" width="25px" src="./svgs/linkedin.svg" />][linkedin]
 [<img align="left" alt="website logo" width="25px" src="./svgs/www.svg" />][website]
 
@@ -34,6 +33,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rominkarki&layout=compact&theme=radical&count_private=true&exclude_repo=Project_college_1.0,PHP-backups,Android_training_class,Java,C-programs)](https://github.com/rominkarki/)
 
-[facebook]: https://facebook.com/rominkarki/
 [linkedin]: https://linkedin.com/in/rominkarki/
 [website]: https://github.com/rominkarki
