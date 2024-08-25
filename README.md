@@ -1,10 +1,10 @@
-### Hi there! 👋 Welcome to my github page.
+### Hi there! 👋 Welcome to my GitHub page.
 <!--
 **rominkarki/rominkarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-## I'm a learner.
-💻 I'm Romin Karki, an SEO expert from Nepal. 🌱I'm always open to learning from the tech community. 🤝 I love collaborating and helping businesses grow online. 💬 Let's chat about tech, investments, or anything else that interests you!
+## SEO | WordPress | Front-end Web
+💻 I'm Romin Karki, an SEO expert from Nepal. 🌱I'm always open to learning from the tech community. 🤝 I love collaborating and helping businesses grow online.
 
 
 ### Connect with me:
